@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include "employee.h"
 //gcc employeeMain.c employeeTable.c employeeOne.c
+//gcc employeeMain.c employeeTable.c employeeTwo.c
 int main(void)
 {
     //defined in employeeOne.c or employeeTwo.c
